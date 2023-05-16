@@ -1,0 +1,1 @@
+The project **ConnectFour** can be executed with the file "_src/GamePanel.java_" via IntelliJ (or another Java IDE if compatible) or by using the JAR file located in "_out/artifacts/ConnectFour.jar_" along with the following command: `java -jar ConnectFour.jar`
